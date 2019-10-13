@@ -27,8 +27,6 @@ The position to which the Servo motor is written controls the angle, and the inc
 
 
 ## Part C. Integrating input and output
-
-**Include a photo/movie of your raw circuit in action.**
 Changing Servo angle & speed Video: https://drive.google.com/file/d/1xrFLwBJinw09dEmouTrUng_vN1UOLawX/view?usp=sharing
 
 ## Part D. Paper puppet
