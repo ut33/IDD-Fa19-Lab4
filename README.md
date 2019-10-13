@@ -23,6 +23,8 @@ https://drive.google.com/file/d/1npHg6JcDG7O8ynT1hzHeBuNtoNZS7JQp/view?usp=shari
 https://drive.google.com/file/d/1ZpwHyAdJjGm91cXX1OXmaPtQn2-uUQ4Z/view?usp=sharing
 
 **b. What aspects of the Servo code control angle or speed?**
+The position to which the Servo motor is written controls the angle, and the increment controls the speed.
+Changing angle & speed Video:
 
 ## Part C. Integrating input and output
 
