@@ -24,13 +24,12 @@ https://drive.google.com/file/d/1ZpwHyAdJjGm91cXX1OXmaPtQn2-uUQ4Z/view?usp=shari
 
 **b. What aspects of the Servo code control angle or speed?**
 The position to which the Servo motor is written controls the angle, and the increment controls the speed.
-Changing angle & speed Video:
+
 
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
-The servo motor's speed varies in time with the vibration motor's speed.
-Video:
+Changing Servo angle & speed Video: https://drive.google.com/file/d/1xrFLwBJinw09dEmouTrUng_vN1UOLawX/view?usp=sharing
 
 ## Part D. Paper puppet
 
