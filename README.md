@@ -29,6 +29,8 @@ Changing angle & speed Video:
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+The servo motor's speed varies in time with the vibration motor's speed.
+Video:
 
 ## Part D. Paper puppet
 
